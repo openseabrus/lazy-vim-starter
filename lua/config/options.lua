@@ -3,5 +3,3 @@
 -- Add any additional options here
 
 vim.opt.cursorline = true
-
-vim.keymap.set("n", "<leader>e", "<Cmd>Neotree toggle reveal right<CR>")
